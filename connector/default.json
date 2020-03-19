@@ -1,0 +1,8 @@
+{
+  "connector": {
+    "defaultNode": "startView",
+    "enabled": true,
+    "type": "NodeConnector"
+  },
+  "name": "default"
+}

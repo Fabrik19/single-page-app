@@ -1,0 +1,62 @@
+{
+  "name": "navbarContent",
+  "layers": [
+    {
+      "type": "color",
+      "name": "backgroundColor",
+      "value": "#ffffff",
+      "constraints": [
+        {
+          "type": "pos",
+          "x": "0",
+          "y": "0"
+        },
+        {
+          "type": "size",
+          "width": "100%",
+          "height": "100%"
+        }
+      ]
+    },
+    {
+      "type": "color",
+      "name": "bottomBorder",
+      "value": "#DDDDDD",
+      "constraints": [
+        {
+          "type": "pos",
+          "anchor": "s",
+          "relativeAnchor": "s",
+          "x": "0",
+          "y": "0"
+        },
+        {
+          "type": "size",
+          "width": "100%",
+          "height": "1pt"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "name": "navBarLabel",
+      "font": "Roboto-Bold",
+      "value": "My App",
+      "fontSize": "34",
+      "fontColor": "#000000",
+      "scaleType": "alignCenter",
+      "constraints": [
+        {
+          "type": "pos",
+          "x": "0",
+          "y": "0"
+        },
+        {
+          "type": "size",
+          "width": "100%",
+          "height": "100%"
+        }
+      ]
+    }
+  ]
+}

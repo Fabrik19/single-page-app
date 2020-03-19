@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "title": "My App",
+    "subTitle": "My Test App",
+    "description": "This app has been generated to get started.",
+    "rootNode": "default"
+  },
+  "config": {
+    "mos.node": {
+      "port": 80
+    }
+  },
+  "context": {
+    "updateInterval": 60
+  }
+}

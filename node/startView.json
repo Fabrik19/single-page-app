@@ -1,0 +1,26 @@
+{
+  "content": {
+    "mainLabel": {
+      "value": "Welcome to My App."
+    }
+  },
+  "previewData": {},
+  "events": [],
+  "viewType": "layered",
+  "style": {
+    "content": {
+      "default": {
+        "layoutName": {
+          "default": "startView"
+        },
+        "navbarDisabled": false,
+        "navbarLayout": {
+          "default": "navbarContent"
+        }
+      }
+    }
+  },
+  "extras": {
+    "isRootNode": true
+  }
+}
