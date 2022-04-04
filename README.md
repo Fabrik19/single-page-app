@@ -10,4 +10,4 @@ The following features were used:
 
 ---
 
-© Copyright Fabrik19 GmbH
+© Copyright Fabrik19 AG
