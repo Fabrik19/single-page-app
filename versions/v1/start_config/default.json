@@ -1,0 +1,9 @@
+{
+  "name": "default",
+  "content": {
+    "type": "layered",
+    "layout": "startView",
+    "staticTemplate": "startView",
+    "templateIsNode": true
+  }
+}

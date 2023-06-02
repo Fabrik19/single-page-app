@@ -1,0 +1,9 @@
+{
+  "name": ".tintedImage",
+  "content": {
+    "tint": {
+      "light": "#000000",
+      "dark": "#ffffff"
+    }
+  }
+}

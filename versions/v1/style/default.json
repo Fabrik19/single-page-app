@@ -1,0 +1,12 @@
+{
+  "name": "default",
+  "content": {
+    "content": {
+      "default": {
+        "navbarLayout": {
+          "default": "navbarContent"
+        }
+      }
+    }
+  }
+}

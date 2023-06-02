@@ -1,0 +1,8 @@
+{
+  "name": "text",
+  "content": {
+    "font": "Roboto-Regular",
+    "fontSize": "28pt",
+    "fontColor": "#000000"
+  }
+}

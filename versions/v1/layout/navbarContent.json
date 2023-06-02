@@ -1,0 +1,48 @@
+{
+  "name": "navbarContent",
+  "layers": [
+    {
+      "type": "color",
+      "name": "backgroundColor",
+      "classes": [
+        "fullSize",
+        "navbarBackground"
+      ]
+    },
+    {
+      "type": "text",
+      "name": "navBarLabel",
+      "value": "$lang(title)$",
+      "classes": [
+        "fullSize",
+        "header"
+      ]
+    },
+    {
+      "type": "image",
+      "value": "internal://share",
+      "classes": [
+        "tintedImage"
+      ],
+      "constraints": [
+        {
+          "type": "pos",
+          "anchor": "ne",
+          "relativeAnchor": "ne",
+          "x": "-2pt",
+          "y": "2pt"
+        },
+        {
+          "type": "pos",
+          "anchor": "s",
+          "relativeAnchor": "s",
+          "y": "-2pt"
+        },
+        {
+          "type": "aspectRatio",
+          "ratio": 1
+        }
+      ]
+    }
+  ]
+}

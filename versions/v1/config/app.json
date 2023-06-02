@@ -5,12 +5,7 @@
     "description": "This app has been generated to get started.",
     "rootNode": "default"
   },
-  "config": {
-    "mos.node": {
-      "port": 80
-    }
-  },
   "context": {
-    "updateInterval": 60
+    "updateInterval": 600
   }
 }

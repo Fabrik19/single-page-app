@@ -1,0 +1,50 @@
+{
+  "name": "startView",
+  "layers": [
+    {
+      "type": "color",
+      "name": "backgroundColor",
+      "classes": [
+        "fullSize",
+        "background"
+      ]
+    },
+    {
+      "type": "text",
+      "dataKey": "mainLabel",
+      "name": "mainLabel",
+      "scaleType": "alignCenter",
+      "constraints": [
+        {
+          "type": "pos",
+          "x": "0",
+          "y": "0"
+        },
+        {
+          "type": "pos",
+          "anchor": "se",
+          "relativeAnchor": "e",
+          "x": "0",
+          "y": "0"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "value": "asset://thumbs_up_green.png",
+      "constraints": [
+        {
+          "type": "pos",
+          "anchor": "c",
+          "x": "50%",
+          "y": "75%"
+        },
+        {
+          "type": "size",
+          "width": "40pt",
+          "height": "40pt"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "startView",
+  "content": {
+    "content": {
+      "mainLabel": {
+        "value": "$lang(mainLabel)$"
+      }
+    }
+  }
+}

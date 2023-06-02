@@ -1,0 +1,7 @@
+{
+  "name": "dark",
+  "content": {
+    "context": "device",
+    "field": "darkModeEnabled"
+  }
+}
